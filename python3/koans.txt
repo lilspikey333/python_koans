@@ -1,4 +1,9 @@
 # Lines starting with # are ignored.
+koans.about_classes.AboutClasses
+koans.about_class_attributes.AboutClassAttributes
+koans.about_methods.AboutMethods
+koans.about_attribute_access.AboutAttributeAccess
+koans.about_inheritance.AboutInheritance
 koans.about_asserts.AboutAsserts
 koans.about_strings.AboutStrings
 koans.about_lists.AboutLists
